@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="D:\Users\administration\AndroidStudioProjects\1221\BluetoothSppPro-master1\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="e8be60cc8c9b4b42c57d388315ffa643aad4fe24">
+        <dex dex="D:\Users\administration\AndroidStudioProjects\1221\BluetoothSppPro-master1\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_f99a75327b9a34f31e9a40e7060f27bbe52aa2eb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Users\administration\AndroidStudioProjects\1221\BluetoothSppPro-master1\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="caff8e51a24901cfc9cd7e1cf83d84f4cb0c103b">
+        <dex dex="D:\Users\administration\AndroidStudioProjects\1221\BluetoothSppPro-master1\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_860fd261f32fb4b84c02b4f14fdd006fa9223ab5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Users\administration\AndroidStudioProjects\repair6.0_\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="caff8e51a24901cfc9cd7e1cf83d84f4cb0c103b">
+        <dex dex="D:\Users\administration\AndroidStudioProjects\repair6.0_\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_5d1364519b8ca1bb2137667ff80d9b92b6156e9c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Users\administration\AndroidStudioProjects\repair6.0_\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="706ad2378b9996b032ac424c4c934732c4024cb0">
+        <dex dex="D:\Users\administration\AndroidStudioProjects\repair6.0_\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_df298405b1ac930faa1e21ac26cb055418efb68c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\administration\.android\build-cache\fbe657fc88389329109287a20a4ae1616f4fdaeb\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6f87db89d847cb6a482a6156d9a3efeabdd9d2e3">
+        <dex dex="D:\Users\administration\AndroidStudioProjects\1221\BluetoothSppPro-master1\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_81b14660b7bf2343984aac6c11ba886787d2f877\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Users\administration\AndroidStudioProjects\1221\BluetoothSppPro-master1\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="caff8e51a24901cfc9cd7e1cf83d84f4cb0c103b">
+        <dex dex="D:\Users\administration\AndroidStudioProjects\1221\BluetoothSppPro-master1\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_860fd261f32fb4b84c02b4f14fdd006fa9223ab5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Users\administration\AndroidStudioProjects\1221\BluetoothSppPro-master1\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ce2ce54b52d2c6d105de05a986e3499fd520f02f">
+        <dex dex="D:\Users\administration\AndroidStudioProjects\1221\BluetoothSppPro-master1\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_f99a75327b9a34f31e9a40e7060f27bbe52aa2eb\classes.dex" />
+    </item>
+
+</items>

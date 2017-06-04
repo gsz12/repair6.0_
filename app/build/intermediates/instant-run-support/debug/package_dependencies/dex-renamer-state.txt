@@ -1,0 +1,22 @@
+#Sun Jun 04 17:16:22 CST 2017
+renamed.6=classes6.dex
+renamed.5=classes7.dex
+renamed.4=classes.dex
+renamed.3=classes2.dex
+renamed.2=classes3.dex
+renamed.1=classes4.dex
+renamed.0=classes5.dex
+base.6=D\:\\Users\\administration\\AndroidStudioProjects\\repair6.0_\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\internal_impl-23.4.0_8fa938bb7b8adf56b65c41c7fba641412c762f48
+base.5=D\:\\Users\\administration\\AndroidStudioProjects\\repair6.0_\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\support-annotations-23.4.0_f4b66564b05e901321e0983711368f3f601a9c4e
+base.4=D\:\\Users\\administration\\AndroidStudioProjects\\repair6.0_\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_3512aeccaf839d332754e74869ba124122b13ab9
+base.3=D\:\\Users\\administration\\AndroidStudioProjects\\repair6.0_\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_81b14660b7bf2343984aac6c11ba886787d2f877
+base.2=D\:\\Users\\administration\\AndroidStudioProjects\\repair6.0_\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_bce803b2ebb2c8525daf65221ee30acce2fd72d9
+base.1=D\:\\Users\\administration\\AndroidStudioProjects\\repair6.0_\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_f713016f061514111adf514a0039dee747d74e9c
+base.0=D\:\\Users\\administration\\AndroidStudioProjects\\repair6.0_\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_fc869c9861970685b280019e9d485d862f9c57d3
+file.6=D\:\\Users\\administration\\AndroidStudioProjects\\repair6.0_\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\internal_impl-23.4.0_8fa938bb7b8adf56b65c41c7fba641412c762f48\\classes.dex
+file.5=D\:\\Users\\administration\\AndroidStudioProjects\\repair6.0_\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\support-annotations-23.4.0_f4b66564b05e901321e0983711368f3f601a9c4e\\classes.dex
+file.4=D\:\\Users\\administration\\AndroidStudioProjects\\repair6.0_\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_3512aeccaf839d332754e74869ba124122b13ab9\\classes.dex
+file.3=D\:\\Users\\administration\\AndroidStudioProjects\\repair6.0_\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_81b14660b7bf2343984aac6c11ba886787d2f877\\classes.dex
+file.2=D\:\\Users\\administration\\AndroidStudioProjects\\repair6.0_\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_bce803b2ebb2c8525daf65221ee30acce2fd72d9\\classes.dex
+file.1=D\:\\Users\\administration\\AndroidStudioProjects\\repair6.0_\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_f713016f061514111adf514a0039dee747d74e9c\\classes.dex
+file.0=D\:\\Users\\administration\\AndroidStudioProjects\\repair6.0_\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_fc869c9861970685b280019e9d485d862f9c57d3\\classes.dex

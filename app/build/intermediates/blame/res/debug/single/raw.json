@@ -1,0 +1,50 @@
+[
+    {
+        "merged": "D:\\Users\\administration\\AndroidStudioProjects\\repair6.0_\\app\\build\\intermediates\\res\\merged\\debug\\raw\\key_board_tw.txt",
+        "source": "D:\\Users\\administration\\AndroidStudioProjects\\repair6.0_\\app\\src\\main\\res\\raw\\key_board_tw.txt"
+    },
+    {
+        "merged": "D:\\Users\\administration\\AndroidStudioProjects\\repair6.0_\\app\\build\\intermediates\\res\\merged\\debug\\raw\\key_board_cn.txt",
+        "source": "D:\\Users\\administration\\AndroidStudioProjects\\repair6.0_\\app\\src\\main\\res\\raw\\key_board_cn.txt"
+    },
+    {
+        "merged": "D:\\Users\\administration\\AndroidStudioProjects\\repair6.0_\\app\\build\\intermediates\\res\\merged\\debug\\raw\\cmd_line_cn.txt",
+        "source": "D:\\Users\\administration\\AndroidStudioProjects\\repair6.0_\\app\\src\\main\\res\\raw\\cmd_line_cn.txt"
+    },
+    {
+        "merged": "D:\\Users\\administration\\AndroidStudioProjects\\repair6.0_\\app\\build\\intermediates\\res\\merged\\debug\\raw\\byte_stream_tw.txt",
+        "source": "D:\\Users\\administration\\AndroidStudioProjects\\repair6.0_\\app\\src\\main\\res\\raw\\byte_stream_tw.txt"
+    },
+    {
+        "merged": "D:\\Users\\administration\\AndroidStudioProjects\\repair6.0_\\app\\build\\intermediates\\res\\merged\\debug\\raw\\byte_stream_en.txt",
+        "source": "D:\\Users\\administration\\AndroidStudioProjects\\repair6.0_\\app\\src\\main\\res\\raw\\byte_stream_en.txt"
+    },
+    {
+        "merged": "D:\\Users\\administration\\AndroidStudioProjects\\repair6.0_\\app\\build\\intermediates\\res\\merged\\debug\\raw\\about_en.txt",
+        "source": "D:\\Users\\administration\\AndroidStudioProjects\\repair6.0_\\app\\src\\main\\res\\raw\\about_en.txt"
+    },
+    {
+        "merged": "D:\\Users\\administration\\AndroidStudioProjects\\repair6.0_\\app\\build\\intermediates\\res\\merged\\debug\\raw\\about_tw.txt",
+        "source": "D:\\Users\\administration\\AndroidStudioProjects\\repair6.0_\\app\\src\\main\\res\\raw\\about_tw.txt"
+    },
+    {
+        "merged": "D:\\Users\\administration\\AndroidStudioProjects\\repair6.0_\\app\\build\\intermediates\\res\\merged\\debug\\raw\\key_board_en.txt",
+        "source": "D:\\Users\\administration\\AndroidStudioProjects\\repair6.0_\\app\\src\\main\\res\\raw\\key_board_en.txt"
+    },
+    {
+        "merged": "D:\\Users\\administration\\AndroidStudioProjects\\repair6.0_\\app\\build\\intermediates\\res\\merged\\debug\\raw\\byte_stream_cn.txt",
+        "source": "D:\\Users\\administration\\AndroidStudioProjects\\repair6.0_\\app\\src\\main\\res\\raw\\byte_stream_cn.txt"
+    },
+    {
+        "merged": "D:\\Users\\administration\\AndroidStudioProjects\\repair6.0_\\app\\build\\intermediates\\res\\merged\\debug\\raw\\cmd_line_en.txt",
+        "source": "D:\\Users\\administration\\AndroidStudioProjects\\repair6.0_\\app\\src\\main\\res\\raw\\cmd_line_en.txt"
+    },
+    {
+        "merged": "D:\\Users\\administration\\AndroidStudioProjects\\repair6.0_\\app\\build\\intermediates\\res\\merged\\debug\\raw\\cmd_line_tw.txt",
+        "source": "D:\\Users\\administration\\AndroidStudioProjects\\repair6.0_\\app\\src\\main\\res\\raw\\cmd_line_tw.txt"
+    },
+    {
+        "merged": "D:\\Users\\administration\\AndroidStudioProjects\\repair6.0_\\app\\build\\intermediates\\res\\merged\\debug\\raw\\about_cn.txt",
+        "source": "D:\\Users\\administration\\AndroidStudioProjects\\repair6.0_\\app\\src\\main\\res\\raw\\about_cn.txt"
+    }
+]
